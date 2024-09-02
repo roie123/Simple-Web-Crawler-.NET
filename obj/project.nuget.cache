@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsZHfO/uxpg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roy\\Desktop\\CODE 2024\\Web-Crawler\\Web-Crawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roy\\.nuget\\packages\\htmlagilitypack\\1.11.64\\htmlagilitypack.1.11.64.nupkg.sha512",
+    "C:\\Users\\Roy\\.nuget\\packages\\htmlagilitypack.cssselectors.netcore\\1.2.1\\htmlagilitypack.cssselectors.netcore.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
